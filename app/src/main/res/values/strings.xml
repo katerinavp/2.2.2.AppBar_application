@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">2.2.2.AndroidPetukhova_AppBar_application</string>
+    <string name="app_name">2.2.2.AppBar_application</string>
     <string name="btnSaveNote">Сохранить</string>
     <string name="chooseStartDate">Дата-время старта задачи:</string>
     <string name="chooseEndDate">Дата-время окончания задачи:</string>
